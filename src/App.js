@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      TEST12345678
+      테스트 올라가는중
     </div>
   );
 }
