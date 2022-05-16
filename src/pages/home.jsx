@@ -74,7 +74,8 @@ function StatisticsCircle(data){
                     return (
                         <tr key={key}>
                             <td>{ date }</td>
-                            <td>내용</td>
+                            <td>
+                            </td>
                         </tr>
                     )
                 })}
